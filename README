@@ -1,0 +1,4 @@
+To run:
+sudo /usr/local/pkgs/nagios-builder/nagios-builder.py
+
+

@@ -1,0 +1,2 @@
+# hostname,ip address,model,longitude,latitude,SNMP port, HTTP port
+SEAS_TITAN_SMA,216.161.85.15,TITAN_SMA,-123.92449,45.9976,22,7000

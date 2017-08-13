@@ -1,0 +1,17 @@
+# Cells
+es440
+es450
+gx450
+ls300
+#Digi's 
+# Instruments
+BASALT
+OBSIDIAN
+Q330
+TITAN_SMA
+# Power
+# Radios
+freewave
+xetawave
+# Routers
+routers
